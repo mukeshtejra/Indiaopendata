@@ -6,7 +6,7 @@ http://indiaopendata.com/india-open-environment-data-project/delhi , so that any
 
 
 #Procedure:
-I have developed the following three live JSON:
+I have developed the following three live JSON (You can get it from API_json.txt) :
 #1. Position 
 This Json will pass the data related to devices planted in which area. 
 #2. Current Reading 
