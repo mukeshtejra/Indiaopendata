@@ -21,7 +21,7 @@ AQI, defines the colour represented for the reading range for each parameter.
 
 #Check Trend of Air Quality (See above 3rd point in Procedure)
 Same colour codes have been used to represent the reading for each parameter. Also, when anyone clicks on “Check Trend”, they can see the readings for each parameter for last 15 days at a 4-hour gap basis.
-=======
+
 # IndiaOpenData
 The India Open Environment Data Project is focused on assessing the air-quality index of different parts of Delhi and showcasing the information in an open, standardized and visualized format to promote community action within the society. For which India Open Data needed help in showcasing the readings in a very simple and understandable format on their website
 http://indiaopendata.com/india-open-environment-data-project/delhi , so that anybody accessing the site should be able to understand the Air Quality for a specific area.
@@ -49,4 +49,3 @@ AQI, defined the colour represented for the range of reading for each parameter.
 
 #Check Trend of Air Quality(See above 3rd point in Procedure)
 I have used these colours to represent the reading for each parameter. Also, when you click on “Check Trend” you can see the readings for each parameter for last 15 days and per hour.
->>>>>>> f91fe90bdafff9bd56bd28581f8cc82b367363cb
